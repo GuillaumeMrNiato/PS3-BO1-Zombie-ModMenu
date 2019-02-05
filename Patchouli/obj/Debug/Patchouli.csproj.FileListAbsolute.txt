@@ -1,0 +1,9 @@
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Patchouli\Patchouli\obj\Debug\Patchouli.csprojResolveAssemblyReference.cache
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Patchouli\Patchouli\obj\Debug\Patchouli.Form1.resources
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Patchouli\Patchouli\obj\Debug\Patchouli.Properties.Resources.resources
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Patchouli\Patchouli\obj\Debug\Patchouli.csproj.GenerateResource.Cache
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Patchouli\Patchouli\bin\Debug\Patchouli.exe
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Patchouli\Patchouli\bin\Debug\Patchouli.pdb
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Patchouli\Patchouli\bin\Debug\PS3Lib.dll
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Patchouli\Patchouli\obj\Debug\Patchouli.exe
+c:\users\utilisateur_\documents\visual studio 2012\Projects\Patchouli\Patchouli\obj\Debug\Patchouli.pdb
